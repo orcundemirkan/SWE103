@@ -2,6 +2,12 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, SWE103!" << endl;
+    cout << "SWE103" << endl;
+
+
+
+
+
+    
     return 0;
 }
